@@ -1,6 +1,3 @@
-
---- 
-- /help
 ```
 opional <> requied []
 ```
@@ -8,42 +5,45 @@ opional <> requied []
 Utility
 ---
 ```
+/help <command>
+```
+```
 /ping
 ```
 ```
-/user info
+/user [info]
 ```
 ```
-/user stats
+/user [stats]
 ```
 ```
-/user invites
+/user [invites]
 ```
 ```
-/bot stats
+/bot [stats]
 ```
 ```
-/bot invite
+/bot [invite]
 ```
 
  Moderation
 ---
  
 ```
-/afk
+/afk <reason>
 ```
 ```
-/ban
+/ban [user] <reason>
 ```
 ```
-/kick
+/kick [user] <reason>
 ```
 ```
-/unban
+/unban [user_id]
 ```
 ```
-/mute
+/mute [user] <reason>
 ```
 ```
-/unmute
+/unmute [user] <reason>
 ```
