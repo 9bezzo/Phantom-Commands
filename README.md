@@ -1,23 +1,49 @@
 # Commands
-
----
-
-- **All Commands**
+--- 
 - /help
+```
+opional <> requied []
+```
 
-
-## Utility
-
+Utility
+---
+```
+/ping
+```
+```
 /user info
+```
+```
 /user stats
+```
+```
 /user invites
+```
+```
+/bot stats
+```
+```
+/bot invite
+```
 
-
-## Moderation
-
-- /afk
-- /ban
-- /kick
-- /unban
-- /mute
-- /unmute
+ Moderation
+---
+ 
+```
+/afk
+```
+```
+/ban
+```
+```
+/kick
+```
+```
+/unban
+```
+```
+/mute
+```
+```
+/unmute
+```
