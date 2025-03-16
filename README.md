@@ -11,8 +11,6 @@ Moderation
 ---
 ```
 /wallet
-```
-```
 /createbank
 ```
 Utility
