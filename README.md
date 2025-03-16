@@ -7,6 +7,14 @@
 opional <> requied []
 ```
 
+Moderation
+---
+```
+/wallet
+```
+```
+/createbank
+```
 Utility
 ---
 ```
