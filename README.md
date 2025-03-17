@@ -26,6 +26,21 @@ Economy
 ```
 /withdraw [amout]
 ```
+```
+/bank
+```
+```
+/achievrments
+```
+```
+/addachievement [name] [descrption] [reward]
+```
+```
+/removeachievement [name]
+```
+```
+/addmoney [user] [amout] [target]
+```
 
 Utility
 ---
@@ -36,40 +51,14 @@ Utility
 ```
 /ping
 ```
-```
-/user [info]
-```
-```
-/user [stats]
-```
-```
-/user [invites]
-```
-```
-/bot [stats]
-```
-```
-/bot [invite]
-```
 
  Moderation
 ---
  
 ```
-/afk <reason>
+/lock
 ```
 ```
-/ban [user] <reason>
+/unlock
 ```
-```
-/kick [user] <reason>
-```
-```
-/unban [user_id]
-```
-```
-/mute [user] <reason>
-```
-```
-/unmute [user] <reason>
-```
+
