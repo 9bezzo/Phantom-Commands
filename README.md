@@ -27,6 +27,13 @@ Moderation
 /kick
 ```
 
+Stats 
+---
+
+```
+/stats user
+```
+
 Economy
 ---
 
@@ -52,10 +59,10 @@ Economy
 /sendmoney
 ```
 ```
-/add_reward
+/set_reward
 ```
 ```
-/show_reward
+/show_rewards
 ```
 ```
 /work
@@ -84,7 +91,7 @@ Reaction-Role
 /reaction-role add
 ```
 ```
-/reaction-role delete
+/reaction-role remove
 ```
 ```
 /reaction-role list
@@ -97,7 +104,7 @@ Join-Role
 /join-role add
 ```
 ```
-/join-role delete
+/join-role remove
 ```
 ```
 /join-role list
