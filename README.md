@@ -11,6 +11,22 @@ opional - <>
 requied - []
 ```
 
+Moderation
+---
+ 
+```
+/lock
+```
+```
+/unlock
+```
+```
+/ban
+```
+```
+/kick
+```
+
 Economy
 ---
 
@@ -30,16 +46,25 @@ Economy
 /bank
 ```
 ```
-/achievrments
+/add_money
 ```
 ```
-/addachievement [name] [descrption] [reward]
+/sendmoney
 ```
 ```
-/removeachievement [name]
+/add_reward
 ```
 ```
-/addmoney [user] [amout] [target]
+/show_reward
+```
+```
+/work
+```
+```
+/slut
+```
+```
+/crime
 ```
 
 Utility
@@ -52,13 +77,28 @@ Utility
 /ping
 ```
 
- Moderation
+Reaction-Role
 ---
  
 ```
-/lock
+/reaction-role add
 ```
 ```
-/unlock
+/reaction-role delete
+```
+```
+/reaction-role list
 ```
 
+Join-Role
+---
+ 
+```
+/join-role add
+```
+```
+/join-role delete
+```
+```
+/join-role list
+```
