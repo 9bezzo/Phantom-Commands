@@ -27,7 +27,7 @@ Moderation
 /kick
 ```
 
-Utility
+Utils
 ---
 
 ```
@@ -38,6 +38,9 @@ Utility
 ```
 ```
 /bot add
+```
+```
+/embed create
 ```
 
 Reaction-Role
