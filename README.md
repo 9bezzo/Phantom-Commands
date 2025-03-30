@@ -36,6 +36,7 @@ Utility
 ```
 /bot ping
 ```
+```
 /bot add
 ```
 
@@ -67,6 +68,7 @@ Join-Role
 
 LoggingSystemV1:
 ---
+
 ```
 /log-system set [forumChannel]
 ```
