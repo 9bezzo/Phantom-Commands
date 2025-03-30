@@ -27,61 +27,16 @@ Moderation
 /kick
 ```
 
-Stats 
----
-
-```
-/stats user
-```
-
-Economy
----
-
-```
-/wallet
-```
-```
-/createbank
-```
-```
-/deposit [amout]
-```
-```
-/withdraw [amout]
-```
-```
-/bank
-```
-```
-/add_money
-```
-```
-/sendmoney
-```
-```
-/set_reward
-```
-```
-/show_rewards
-```
-```
-/work
-```
-```
-/slut
-```
-```
-/crime
-```
-
 Utility
 ---
 
 ```
-/help <command>
+/bot help
 ```
 ```
-/ping
+/bot ping
+```
+/bot add
 ```
 
 Reaction-Role
@@ -108,4 +63,28 @@ Join-Role
 ```
 ```
 /join-role list
+```
+
+LoggingSystemV1:
+---
+```
+/log-system set [forumChannel]
+```
+```
+/log-system remove
+```
+```
+/log-system info
+```
+```
+/log-system toggle
+```
+```
+/log-system add_thread [Event-Log]
+```
+```
+/log-system remove_thread [Event-Log]
+```
+```
+/log-system debugg_logging
 ```
