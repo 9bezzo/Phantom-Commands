@@ -1,4 +1,4 @@
-# Phantom – Der vielseitige All-Purpose-Discord-Bot 👻
+ä# Phantom – Der vielseitige All-Purpose-Discord-Bot 👻
 
 **Phantom** ist ein leistungsstarker, vielseitiger Discord-Bot, der deinen Server auf das nächste Level bringt. Egal, ob du Moderationstools, Utility-Befehle oder einfach nur Spaß brauchst – Phantom hat alles, was du brauchst!
 
@@ -10,8 +10,6 @@ Prefix - !
 opional - <> 
 requied - []
 ```
-
-Moderation
 ---
  
 ```
@@ -26,10 +24,6 @@ Moderation
 ```
 /kick
 ```
-
-Utils
----
-
 ```
 /bot help
 ```
@@ -42,10 +36,6 @@ Utils
 ```
 /embed create
 ```
-
-Reaction-Role
----
- 
 ```
 /reaction-role add
 ```
@@ -55,10 +45,6 @@ Reaction-Role
 ```
 /reaction-role list
 ```
-
-Join-Role
----
- 
 ```
 /join-role add
 ```
@@ -68,10 +54,6 @@ Join-Role
 ```
 /join-role list
 ```
-
-LoggingSystemV1:
----
-
 ```
 /log-system set [forumChannel]
 ```
