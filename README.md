@@ -31,31 +31,46 @@ requied - []
 /bot ping
 ```
 ```
+/bot idea
+```
+```
 /bot add
 ```
 ```
 /embed create
 ```
 ```
-/reaction-role add
+/ticket setup [ticket-catergoire] [team-role-id, role-id2] <Max-ticket>
 ```
 ```
-/reaction-role remove
+/ticket panel [#ticket-zone]
+```
+```
+/ticket set_max [0 = Unbegrenzt]
+```
+```
+/ticket stats
+```
+```
+/reaction-role add [Nachricht-Link] [emoji] [@role]
+```
+```
+/reaction-role remove [Nachricht-Link]
 ```
 ```
 /reaction-role list
 ```
 ```
-/join-role add
+/join-role add [@role]
 ```
 ```
-/join-role remove
+/join-role remove [@role]
 ```
 ```
 /join-role list
 ```
 ```
-/log-system set [forumChannel]
+/log-system set [#forumChannel]
 ```
 ```
 /log-system remove
@@ -67,10 +82,10 @@ requied - []
 /log-system toggle
 ```
 ```
-/log-system add_thread [Event-Log]
+/log-system add_thread [text=Event-Log]
 ```
 ```
-/log-system remove_thread [Event-Log]
+/log-system remove_thread [text=Event-Log]
 ```
 ```
 /log-system debugg_logging
