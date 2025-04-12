@@ -26,7 +26,7 @@ requied - []
 ```
 /kick
 ```
-# Nützliches
+# NÜTZLICHES
 ---
 ```
 /bot help
