@@ -10,8 +10,10 @@ Prefix - !
 opional - <> 
 requied - []
 ```
+
+# MODERATION
 ---
- 
+
 ```
 /lock
 ```
@@ -24,6 +26,8 @@ requied - []
 ```
 /kick
 ```
+# Nützliches
+---
 ```
 /bot help
 ```
@@ -39,6 +43,10 @@ requied - []
 ```
 /embed create
 ```
+
+# TICKETSYSTEM
+---
+
 ```
 /ticket setup [ticket-catergoire] [team-role-id, role-id2] <Max-ticket>
 ```
