@@ -59,6 +59,8 @@ requied - []
 ```
 /ticket stats
 ```
+# REACTION ROLE
+---
 ```
 /reaction-role add [Nachricht-Link] [emoji] [@role]
 ```
@@ -68,6 +70,8 @@ requied - []
 ```
 /reaction-role list
 ```
+# JOIN ROLE
+--- 
 ```
 /join-role add [@role]
 ```
@@ -77,6 +81,8 @@ requied - []
 ```
 /join-role list
 ```
+# LOGGINGSYSTEM
+---
 ```
 /log-system set [#forumChannel]
 ```
